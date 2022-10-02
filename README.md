@@ -36,6 +36,9 @@ MIMIC-III is a freely accessible database. However, access must be requested at 
 We extract 8059 patients with 10 time steps each. As baseline covariates, we consider age, gender, race, insurance, admission type, and first care unit. As time-vayring covariates, we use heart rate, diastolic blood pressure, mean blood pressure, oxygen saturation, respiratory rate, systolic blood pressure, and temperature. 
 
 ## References
+
+Blümlein, T., Persson, J., & Feuerriegel, S. (2021). Learning Optimal Dynamic Treatment Regimes Us- ing Causal Tree Methods in Medicine, MLHC 2022: Proceedings of Machine Learning Research 182:1–25, 2022
+
 Johnson, A. E., Pollard, T. J., Shen, L., Li-Wei, H. L., Feng, M., Ghassemi, M., ... & Mark, R. G. (2016). MIMIC-III, a freely accessible critical care database. Scientific data, 3(1), 1-9.
 
 Wang, S., McDermott, M. B., Chauhan, G., Ghassemi, M., Hughes, M. C., & Naumann, T. (2020, April). MIMIC-extract: A data extraction, preprocessing, and representation pipeline for MIMIC-III. In Proceedings of the ACM Conference on Health, Inference, and Learning (pp. 222-235).
