@@ -1,9 +1,9 @@
 # Learning Optimal Dynamic Treatment Regimes Using Causal Tree Methods in Medicine
-This is a git repository for the paper "Learning Optimal Dynamic Treatment Regimes Using Causal Tree Methods in Medicine", published in the Proceedings of Machine Learning for Healthcare 2022 (PMLR 182) ([Link to publication](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e975b7f5aea328e3e0aa09/1659467192866/34+DTR_MLHC_2022_camera-ready.pdf)) 
+This is a git repository for the paper "Learning Optimal Dynamic Treatment Regimes Using Causal Tree Methods in Medicine", published in the Proceedings of Machine Learning for Healthcare 2022 ([Link to publication](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e975b7f5aea328e3e0aa09/1659467192866/34+DTR_MLHC_2022_camera-ready.pdf)) 
 
 
 ## Citation:
-Blümlein, T., Persson, J., & Feuerriegel, S. (2022). "Learning Optimal Dynamic Treatment Regimes Using Causal Tree Methods in Medicine", Proceedings of Machine Learning for Healthcare 2022 (PMLR 182)
+Blümlein, T., Persson, J., & Feuerriegel, S. (2022). "Learning Optimal Dynamic Treatment Regimes Using Causal Tree Methods in Medicine", Proceedings of Machine Learning for Healthcare 2022, PMLR 182:1-25
 
 ## Scripts
 The following scripts are used to reproduce the results:
